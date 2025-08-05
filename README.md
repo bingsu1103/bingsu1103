@@ -21,23 +21,23 @@
 
 ```typescript
 const developer = {
-  name: "[Your Name]",
-  location: "[Your Location]",
-  role: "[Your Role - e.g., Full Stack Developer]",
-  company: "[Your Company]",
-  experience: "[Years] years",
+  name: "NGO GIA AN",
+  location: "Ho Chi Minh City",
+  role: "Software Developer",
+  company: null,
+  experience: "1 years",
   
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  code: ["JavaScript", "TypeScript", "C++", "Java"],
   technologies: {
-    frontEnd: ["React", "Vue", "Angular", "Next.js"],
-    backEnd: ["Node.js", "Express", "Django", "Spring"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    frontEnd: ["React", "Next.js"],
+    backEnd: ["Node.js", "Express"],
+    databases: ["MongoDB", "MySQL"],
     cloud: ["AWS", "Google Cloud", "Azure"],
-    tools: ["Docker", "Kubernetes", "Git", "Jenkins"]
+    tools: ["Docker", "Git"]
   },
   
   currentlyLearning: ["AI/ML", "Blockchain", "Cloud Architecture"],
-  lookingFor: "New opportunities and collaborations",
+  lookingFor: "Software developer internship",
   funFact: "I debug with console.log() and I'm not ashamed! 🤷‍♂️"
 };
 ```
