@@ -27,12 +27,12 @@ const developer = {
   company: null,
   experience: "1 years",
   
-  code: ["JavaScript", "TypeScript", "C++", "Java"],
+  code: ["JavaScript", "TypeScript", "C++"],
   technologies: {
-    frontEnd: ["React", "Next.js"],
+    frontEnd: ["React"],
     backEnd: ["Node.js", "Express"],
     databases: ["MongoDB", "MySQL"],
-    cloud: ["AWS", "Google Cloud", "Azure"],
+    cloud: ["Cloudinary"],
     tools: ["Docker", "Git"]
   },
   
@@ -45,7 +45,6 @@ const developer = {
 ---
 
 ## 🛠️ Tech Stack & Tools
-![Logo](https://www.svgrepo.com/show/503404/language-typescript.svg)
 
 
 <div align="center">
@@ -93,13 +92,13 @@ const developer = {
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[bingsu1103]&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[bingsu1103]&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
 
 </div>
 
@@ -109,7 +108,7 @@ const developer = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=[bingsu1103]&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
