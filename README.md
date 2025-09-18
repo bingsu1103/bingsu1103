@@ -55,7 +55,7 @@ const ngoGiaAn = {
 <div align="center">
 
 ### 💻 Programming Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,java,spring" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,spring" />
 
 ### 🎨 Styling & UI
 <img src="https://skillicons.dev/icons?i=tailwind,css,html" />
@@ -64,7 +64,7 @@ const ngoGiaAn = {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🔧 Development Tools
-<img src="https://skillicons.dev/icons?i=postman,figma,blender,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=postman,figma,blender,git,github,vscode,docker" />
 
 </div>
 
@@ -78,16 +78,16 @@ const ngoGiaAn = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bingsu1103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingsu1103&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bingsu1103&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bingsu1103&theme=tokyo-night" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -167,7 +167,7 @@ Beyond coding, I'm passionate about:
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=1&unique=true" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Bingsu#1103&count=1&unique=true" />
 </div>
 
 ---
@@ -184,4 +184,4 @@ Beyond coding, I'm passionate about:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-⭐️ **From [Ngo Gia An](https://github.com/YOUR_GITHUB_USERNAME)** - *Building the future, one commit at a time!* ⭐️
+⭐️ **From [Ngo Gia An](https://github.com/bingsu1103)** - *Building the future, one commit at a time!* ⭐️
