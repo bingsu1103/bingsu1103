@@ -184,4 +184,4 @@ Beyond coding, I'm passionate about:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50"> **From [Ngo Gia An](https://github.com/bingsu1103)** - *Building the future, one commit at a time!* ⭐️
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZqNjYxY2NreDRzeXM2azluMDBneDc1bDI5MTF3dGN3OWV6bnRxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xM63bhWsnbNpjdybj/giphy.gif" width="50"> **From [Ngo Gia An](https://github.com/bingsu1103)** - *Building the future, one commit at a time!* ⭐️
