@@ -27,7 +27,7 @@ const developer = {
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZqNjYxY2NreDRzeXM2azluMDBneDc1bDI5MTF3dGN3OWV6bnRxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xM63bhWsnbNpjdybj/giphy.gif)" width="900">
 </div>
 
 ## 🚀 My Development Journey
