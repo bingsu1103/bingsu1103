@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="./assets/info-svgrepo-com.svg" width="35" height="35" />
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/info-svgrepo-com.svg" width="35" height="35" />
 
 - 🎓 **Current Student** at **VNU - Ho Chi Minh University of Science (HCMUS)**, majoring in **Information Technology** (Expected Graduation: 2027)
 - 💻 **Focused on Full-Stack Web Development**: Frontend (hooks, SSR/SSG, responsive design) and Backend (REST APIs, authentication, integrations)
@@ -34,7 +34,7 @@
 
 ---
 
-## <img src="./assets/tech-circuit-svgrepo-com.svg" width="35" height="35"/>
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/tech-circuit-svgrepo-com.svg" width="35" height="35"/>
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## <img src="./assets/science-svgrepo-com.svg" width="35" height="35"/>
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/science-svgrepo-com.svg" width="35" height="35"/>
 
 ### Frontend
 
@@ -74,7 +74,7 @@
 
 ---
 
-## <img src="./assets/internet-connection-contact-svgrepo-com.svg" width="35" height="35"/>
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/internet-connection-contact-svgrepo-com.svg" width="35" height="35"/>
 
 - 🔭 Building **full-stack web apps** with React/Next.js + Node/NestJS
 - 🌱 Exploring **advanced backend architectures** & **cloud technologies**
@@ -83,7 +83,7 @@
 
 ---
 
-## <img src="./assets/analytics-chart-diagram-svgrepo-com.svg" width="35" height="35"/>
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/analytics-chart-diagram-svgrepo-com.svg" width="35" height="35"/>
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=bingsu1103&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -93,14 +93,13 @@
 
 ---
 
-## <img src="./assets/phone-book-contacts-svgrepo-com.svg" width="35" height="35" />
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/phone-book-contacts-svgrepo-com.svg" width="35" height="35" />
 
 <div align="center">
-  <!-- Replace with your actual info -->
   <a href="mailto:ngogiaan11111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/ngo-gia-an-127621380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/bingsu1103">
@@ -113,7 +112,7 @@
 
 ---
 
-## <img src="./assets/quote-interface-svgrepo-com.svg" width="35" height="35" />
+## <img src="https://github.com/bingsu1103/bingsu1103/blob/main/assets/quote-interface-svgrepo-com.svg" width="35" height="35" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
