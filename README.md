@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=F72EEFFF&center=true&vCenter=true&width=900&lines=👋+Hi+there!+I'm+Gia+An;🚀+FullStack+Developer;🎓+Information+Technology+in+FIT@HCMUS;🇻🇳+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  Full Stack Developer · Ho Chi Minh City, Vietnam
+<p>
+  A tech enthusiast and Full Stack Developer from Vietnam 🇻🇳 — building modern web applications with React, Next.js, and Node.js, focused on seamless performance and delightful user experiences.
 </p>
 
 <p align="center">
@@ -22,10 +22,7 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="./assets/info-svgrepo-com.svg" width="30" style="margin-right: 8px;" />
-  <h2>About Me</h2>
-</div>
+## <img src="./assets/info-svgrepo-com.svg" width="35" height="35" />
 
 - 🎓 **Current Student** at **VNU - Ho Chi Minh University of Science (HCMUS)**, majoring in **Information Technology** (Expected Graduation: 2027)
 - 💻 **Focused on Full-Stack Web Development**: Frontend (hooks, SSR/SSG, responsive design) and Backend (REST APIs, authentication, integrations)
@@ -37,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="./assets/tech-circuit-svgrepo-com.svg" width="35" height="35"/>
 
 <div align="center">
 
@@ -61,7 +58,7 @@
 
 ---
 
-## 🚀 Core Competencies
+## <img src="./assets/science-svgrepo-com.svg" width="35" height="35"/>
 
 ### Frontend
 
@@ -77,7 +74,7 @@
 
 ---
 
-## 💼 What I’m Working On
+## <img src="./assets/internet-connection-contact-svgrepo-com.svg" width="35" height="35"/>
 
 - 🔭 Building **full-stack web apps** with React/Next.js + Node/NestJS
 - 🌱 Exploring **advanced backend architectures** & **cloud technologies**
@@ -86,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="./assets/analytics-chart-diagram-svgrepo-com.svg" width="35" height="35"/>
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=bingsu1103&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -96,11 +93,11 @@
 
 ---
 
-## 🌐 Connect with Me
+## <img src="./assets/phone-book-contacts-svgrepo-com.svg" width="35" height="35" />
 
 <div align="center">
   <!-- Replace with your actual info -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ngogiaan11111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/your-profile">
@@ -109,16 +106,22 @@
   <a href="https://github.com/bingsu1103">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://myportfolio-bingsu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 ---
 
-## ✨ Favorite Quote
+## <img src="./assets/quote-interface-svgrepo-com.svg" width="35" height="35" />
 
-> “Code is like humor. When you have to explain it, it's bad.” — **Cory House**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+> <i>“Talk is cheap. Show me the code.”</i>  
+> <b>Linus Torvalds</b>
+
+</div>
 
 ---
 
