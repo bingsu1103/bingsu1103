@@ -1,8 +1,9 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=F72EEFFF&center=true&vCenter=true&width=900&lines=👋+Hi+there!+I'm+Gia+An;🚀+FullStack+Developer;🎓+Information+Technology+-+FIT@HCMUS;🇻🇳+Ho+Chi+Minh+City%2C+Vietnam;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=F72EEFFF&center=true&vCenter=true&width=900&lines=👋+Hi+there!+I'm+Gia+An;🚀+FullStack+Developer;🎓+Information+Technology+-+FIT@HCMUS;🇻🇳+Ho+Chi+Minh+City%2C+Vietnam;" alt="Typing SVG" />
 </div>
+<br />
 
 <p>
   A tech enthusiast and Full Stack Developer from Vietnam 🇻🇳 — building modern web applications with React, Next.js, and Node.js, focused on seamless performance and delightful user experiences.
