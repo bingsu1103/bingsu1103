@@ -23,7 +23,7 @@
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="./asset/info-svgrepo-com.svg" width="30" style="margin-right: 8px;" />
+  <img src="./assets/info-svgrepo-com.svg" width="30" style="margin-right: 8px;" />
   <h2>About Me</h2>
 </div>
 
