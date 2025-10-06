@@ -89,7 +89,6 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=bingsu1103&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingsu1103&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bingsu1103&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
