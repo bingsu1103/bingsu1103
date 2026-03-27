@@ -26,23 +26,17 @@
       <p>
         I don't just write code; I design resilient ecosystems that thrive under load. From crafting modular microservices to orchestrating cloud-native deployments, my objective is <b>absolute technical precision.</b>
       </p>
-      <table border="0" width="100%">
-        <tr>
-          <td width="33%" align="center">
-            <a href="https://github.com/bingsu1103">
-              <img src="https://img.shields.io/github/followers/bingsu1103?style=for-the-badge&logo=github&label=NETWORK&color=6272A4" alt="Network"/>
-            </a>
-          </td>
-          <td width="33%" align="center">
-            <img src="https://komarev.com/ghpvc/?username=bingsu1103&label=NODE_VISITS&color=bd93f9&style=for-the-badge" alt="Node Visits"/>
-          </td>
-          <td width="33%" align="center">
-            <a href="https://github.com/bingsu1103">
-              <img src="https://img.shields.io/github/stars/bingsu1103?style=for-the-badge&logo=github&label=STARS&color=f1c40f" alt="Stars"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+      <div align="center">
+        <a href="https://github.com/bingsu1103">
+          <img src="https://img.shields.io/github/followers/bingsu1103?style=for-the-badge&logo=github&label=NETWORK&color=6272A4" alt="Network"/>
+        </a>
+        &nbsp;
+        <img src="https://komarev.com/ghpvc/?username=bingsu1103&label=NODE_VISITS&color=bd93f9&style=for-the-badge" alt="Node Visits"/>
+        &nbsp;
+        <a href="https://github.com/bingsu1103">
+          <img src="https://img.shields.io/github/stars/bingsu1103?style=for-the-badge&logo=github&label=STARS&color=f1c40f" alt="Stars"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -68,16 +62,17 @@
 <table border="0">
   <tr>
     <td valign="top">
-      <h2>🛰️ THE LAB & WORKFLOW</h2>
-      <p>My development environment is a carefully curated stack designed for peak efficiency:</p>
-      <ul>
-        <li><b>Hardware:</b> MacBook Pro ecosystem – the heart of my local node.</li>
-        <li><b>AI Engines:</b> <b>Antigravity</b> (Agentic Logic) & <b>CloudCode</b> (Deployment Ops).</li>
-        <li><b>Productivity:</b> VS Code (Deeply customized) & iTerm2 (The Command Line).</li>
-      </ul>
-      <p align="center">
-        <i>Currently focused on building the most robust CI/CD pipelines in the cloud space.</i>
+      <h2>📖 MY STORY | BINGSU</h2>
+      <p>
+        Born in 2005 (Dong Thap), my journey began as an <b>English specialist</b> with a fascination for electronics. A high school introduction to <b>C++</b> sparked a pivot that led me to <b>HCMUS</b> and a deep passion for Information Technology.
       </p>
+      <p>
+        I evolved from self-teaching <b>React & Express</b> to architecting <b>Microservices</b> and large-scale backend systems with <b>NestJS & Java Spring Boot</b>. 
+      </p>
+      <p>
+        <b>Currently:</b> I'm focused on <b>Cloud Architecture (AWS/K8s)</b> and managing high-scale data with <b>Kafka, RabbitMQ, and CQRS patterns</b>. I build systems that scale gracefully and redefine digital experiences.
+      </p>
+      <p align="center"><i>"Pull up a chair — let's get to know each other."</i></p>
     </td>
     <td width="350" align="center">
        <img src="./assets/me2.jpg" width="300" style="border-radius: 10px; transform: rotate(2deg); box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" />
@@ -98,13 +93,9 @@
 <br/>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bingsu1103&theme=dracula" alt="Most Commits" height="150" /></td>
-      <td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bingsu1103&theme=dracula" alt="Stats" height="150" /></td>
-      <td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bingsu1103&theme=dracula&utcOffset=7" alt="Productive Time" height="150" /></td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bingsu1103&theme=dracula" alt="Most Commits" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bingsu1103&theme=dracula" alt="Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bingsu1103&theme=dracula&utcOffset=7" alt="Productive Time" height="150" />
 </div>
 
 ---
@@ -139,7 +130,5 @@
   <br/><br/>
   <p align="center">
     <img src="https://media.giphy.com/media/L1R1QHUR4lyFe/giphy.gif" width="400" />
-    <br/>
-    <img src="https://media.giphy.com/media/3o7TKSjP6WqEBD4d6U/giphy.gif" width="400" />
   </p>
 </div>
