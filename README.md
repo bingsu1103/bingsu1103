@@ -26,17 +26,23 @@
       <p>
         I don't just write code; I design resilient ecosystems that thrive under load. From crafting modular microservices to orchestrating cloud-native deployments, my objective is <b>absolute technical precision.</b>
       </p>
-      <ul>
-        <li>🔭 <b>Status:</b> Developing high-throughput cloud environments.</li>
-        <li>🌱 <b>Evolution:</b> Mastering the art of Distributed Systems & SRE.</li>
-        <li>⚡ <b>Philosophy:</b> <i>"Automation over manual effort. Resilience over complexity."</i></li>
-      </ul>
-      <p align="right">
-        <a href="https://github.com/bingsu1103">
-          <img src="https://img.shields.io/github/followers/bingsu1103?style=for-the-badge&logo=github&label=NETWORK&color=6272A4" alt="Network"/>
-        </a>
-        <img src="https://komarev.com/ghpvc/?username=bingsu1103&label=NODE_VISITS&color=bd93f9&style=for-the-badge" alt="Node Visits"/>
-      </p>
+      <table border="0" width="100%">
+        <tr>
+          <td width="33%" align="center">
+            <a href="https://github.com/bingsu1103">
+              <img src="https://img.shields.io/github/followers/bingsu1103?style=for-the-badge&logo=github&label=NETWORK&color=6272A4" alt="Network"/>
+            </a>
+          </td>
+          <td width="33%" align="center">
+            <img src="https://komarev.com/ghpvc/?username=bingsu1103&label=NODE_VISITS&color=bd93f9&style=for-the-badge" alt="Node Visits"/>
+          </td>
+          <td width="33%" align="center">
+            <a href="https://github.com/bingsu1103">
+              <img src="https://img.shields.io/github/stars/bingsu1103?style=for-the-badge&logo=github&label=STARS&color=f1c40f" alt="Stars"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -86,7 +92,7 @@
 ## 📊 REAL-TIME ANALYTICS
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bingsu1103&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=1e1e2e&title_color=bd93f9&icon_color=ff79c6" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bingsu1103&theme=dracula" alt="Profile Details" width="100%" />
 </div>
 
 <br/>
@@ -94,8 +100,9 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingsu1103&layout=compact&theme=dracula&hide_border=true&bg_color=1e1e2e&title_color=bd93f9" alt="Top Languages" width="100%" /></td>
-      <td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bingsu1103&theme=dracula&hide_border=true&background=1e1e2e&ring=bd93f9&fire=ff79c6" alt="Streak" width="100%" /></td>
+      <td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bingsu1103&theme=dracula" alt="Most Commits" height="150" /></td>
+      <td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bingsu1103&theme=dracula" alt="Stats" height="150" /></td>
+      <td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bingsu1103&theme=dracula&utcOffset=7" alt="Productive Time" height="150" /></td>
     </tr>
   </table>
 </div>
@@ -109,10 +116,16 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ngo-gia-an-127621380/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://myportfolio-bingsu.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=codepen&logoColor=white" />
+    <img src="https://img.shields.io/badge/MY_SITE-FF5722?style=for-the-badge&logo=PlanetScale&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/bingsu1103">
+    <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@bingsu.05">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://github.com/bingsu1103">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -122,11 +135,11 @@
 <br/>
 
 <div align="center">
-  <sub>© 2024 - 2026 NGO GIA AN • ARCHITECTING THE FUTURE</sub>
+  <sub>© 2024 - 2026 NGO GIA AN</sub>
   <br/><br/>
   <p align="center">
     <img src="https://media.giphy.com/media/L1R1QHUR4lyFe/giphy.gif" width="400" />
     <br/>
-    <!-- <img src="https://media.giphy.com/media/3o7TKSjP6WqEBD4d6U/giphy.gif" width="400" /> -->
+    <img src="https://media.giphy.com/media/3o7TKSjP6WqEBD4d6U/giphy.gif" width="400" />
   </p>
 </div>
