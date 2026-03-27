@@ -19,7 +19,7 @@
       </div>
     </td>
     <td valign="top">
-      <h2>🧬 CORE MISSION</h2>
+      <h2>🎯 STRATEGIC DIRECTIVE</h2>
       <p>
         I am a <b>Digital Infrastructure Architect</b> and <b>Full-Stack Developer</b> currently navigating the complex layers of Information Technology at <b>HCMUS</b>. My work exists at the intersection of high-availability backend systems and seamless user-centric interfaces.
       </p>
@@ -43,19 +43,23 @@
 
 ---
 
-## 🛠️ THE COMMAND CENTER
+## 🛠️ TECH STACK
 
-### **SYSTEM ORCHESTRATION & CLOUD**
+### **INFRASTRUCTURE & DEVOPS**
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,gitlab&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,gitlab,nginx&theme=dark" height="40" />
 
-### **FOUNDATIONAL CODE & DATA**
+### **BACKEND & DATA**
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,spring,postgres,mysql,mongodb,redis&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nest,spring,postgres,mysql,mongodb,redis,kafka&theme=dark" height="40" />
 
-### **MONITORING & LOGISTICS**
+### **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,postman,figma&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,reactquery,zustand&theme=dark" height="40" />
+
+### **MONITORING & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,postman&theme=dark" height="40" />
 
 ---
 
@@ -84,7 +88,7 @@
 
 ---
 
-## 📊 REAL-TIME ANALYTICS
+## 📊 GIT STATS
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bingsu1103&theme=dracula" alt="Profile Details" width="100%" />
@@ -100,7 +104,7 @@
 
 ---
 
-## 📡 ESTABLISH COMMUNICATION
+## 🔗 CONTACT
 
 <div align="center">
   <a href="mailto:ngogiaan11111@gmail.com">
