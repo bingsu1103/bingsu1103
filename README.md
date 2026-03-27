@@ -126,9 +126,9 @@
 <br/>
 
 <div align="center">
-  <sub>© 2024 - 2026 NGO GIA AN</sub>
-  <br/><br/>
   <p align="center">
     <img src="https://media.giphy.com/media/L1R1QHUR4lyFe/giphy.gif" width="400" />
   </p>
+  <br/>
+  <sub>© 2024 - 2026 NGO GIA AN</sub>
 </div>
